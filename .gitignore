@@ -1,0 +1,8 @@
+gradle.properties*
+.DS_Store
+
+.gradle
+/build
+!gradle/wrapper/gradle-wrapper.jar
+.gradle/
+build/
