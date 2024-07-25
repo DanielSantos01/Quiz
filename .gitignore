@@ -5,4 +5,5 @@ gradle.properties*
 /build
 !gradle/wrapper/gradle-wrapper.jar
 .gradle/
+.idea/
 build/
